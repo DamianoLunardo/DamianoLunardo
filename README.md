@@ -2,7 +2,7 @@
 - :telescope: I'm Damiano. A passionate Web Developer based in Milan, Italy.
 - :zap: My passion is to create and develop a clean UI/UX for my users. I am always looking for new challenges, ready to learn new technologies.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Damiano-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damiano-lunardo/)
-- [My Portfolio](https://damianoportfolio.netlify.app/)
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
